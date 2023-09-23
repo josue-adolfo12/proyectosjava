@@ -1,5 +1,5 @@
 # proyectosjava
-Manual del usuario y técnico - bd negocio Textiles.
+# Manual del usuario y técnico - bd negocio Textiles.
 
 El código proporcionado corresponde a una aplicación de Java Swing para la gestión de productos en una base de datos MySQL. A continuación, se proporciona un manual para entender y utilizar este código.
 
